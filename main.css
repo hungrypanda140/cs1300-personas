@@ -1,0 +1,19 @@
+html {
+  background: #fff;
+  height: 100%;
+}
+
+body {
+  font-family: "aktiv-grotesk", "Helvetica Neue", "Helvetica", sans-serif;
+}
+
+hr {
+  height: 2px!important;
+}
+
+.header-container {
+  background: linear-gradient( #dafff8, #9dffed);
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 4rem;
+}
